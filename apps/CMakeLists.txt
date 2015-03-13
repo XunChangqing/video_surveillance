@@ -1,0 +1,5 @@
+#add_subdirectory(bgs_app)
+add_subdirectory(video_split)
+add_subdirectory(video_speedup)
+#add_subdirectory(video_wrap)
+add_subdirectory(target_recognition)
